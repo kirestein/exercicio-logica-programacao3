@@ -1,0 +1,13 @@
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao3\conversorDeTemperatura\conversorDeTemperatura\obj\Debug\netcoreapp3.1\conversorDeTemperatura.csproj.AssemblyReference.cache
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao3\conversorDeTemperatura\conversorDeTemperatura\obj\Debug\netcoreapp3.1\conversorDeTemperatura.AssemblyInfoInputs.cache
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao3\conversorDeTemperatura\conversorDeTemperatura\obj\Debug\netcoreapp3.1\conversorDeTemperatura.AssemblyInfo.cs
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao3\conversorDeTemperatura\conversorDeTemperatura\obj\Debug\netcoreapp3.1\conversorDeTemperatura.csproj.CoreCompileInputs.cache
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao3\conversorDeTemperatura\conversorDeTemperatura\bin\Debug\netcoreapp3.1\conversorDeTemperatura.exe
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao3\conversorDeTemperatura\conversorDeTemperatura\bin\Debug\netcoreapp3.1\conversorDeTemperatura.deps.json
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao3\conversorDeTemperatura\conversorDeTemperatura\bin\Debug\netcoreapp3.1\conversorDeTemperatura.runtimeconfig.json
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao3\conversorDeTemperatura\conversorDeTemperatura\bin\Debug\netcoreapp3.1\conversorDeTemperatura.runtimeconfig.dev.json
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao3\conversorDeTemperatura\conversorDeTemperatura\bin\Debug\netcoreapp3.1\conversorDeTemperatura.dll
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao3\conversorDeTemperatura\conversorDeTemperatura\bin\Debug\netcoreapp3.1\conversorDeTemperatura.pdb
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao3\conversorDeTemperatura\conversorDeTemperatura\obj\Debug\netcoreapp3.1\conversorDeTemperatura.dll
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao3\conversorDeTemperatura\conversorDeTemperatura\obj\Debug\netcoreapp3.1\conversorDeTemperatura.pdb
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao3\conversorDeTemperatura\conversorDeTemperatura\obj\Debug\netcoreapp3.1\conversorDeTemperatura.genruntimeconfig.cache
